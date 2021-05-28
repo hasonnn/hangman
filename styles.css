@@ -1,0 +1,8 @@
+body {
+    height: 100vh;
+    background: burlywood;
+}
+
+#hangman-img {
+    width: 300px;
+}
